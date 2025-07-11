@@ -1,0 +1,10 @@
+//Suyashi Tiwari
+//24070123115
+//Exp-1 (program 1) 
+
+#include<iostream>
+using namespace std;
+int main(){
+    cout<<"Hello World"<<endl;
+    return 0;
+}
