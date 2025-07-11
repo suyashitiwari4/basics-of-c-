@@ -1,0 +1,31 @@
+//Suyashi Tiwari
+//24070123115
+// Exp 1,program 2
+
+#include<iostream>
+using namespace std;
+int main(){
+    float num1;
+    cout<<"enter the value of num1:";
+    cin>>num1;
+    float num2;
+    cout<<"enter the value of num2:";
+    cin>>num2;
+    float add=num1+num2;
+    float sub=num1-num2;
+    float mul=num1*num2;
+    float div=num1/num2;
+    cout<<"ADDITION="<<add<<endl;
+    cout<<"SUBTRACTION="<<sub<<endl;
+    cout<<"MULTIPLICATION="<<mul<<endl;
+    cout<<"DIVISION="<<div<<endl;
+    return 0;
+    
+}
+//Output:
+enter the value of num1:36
+enter the value of num2:6.0
+ADDITION=42
+SUBTRACTION=30
+MULTIPLICATION=216
+DIVISION=6
