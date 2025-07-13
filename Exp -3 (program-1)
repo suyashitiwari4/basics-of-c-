@@ -1,0 +1,27 @@
+//Suyashi Tiwari
+//24070123115
+
+
+#include <iostream>
+using namespace std;
+int main() {
+   int n;
+   cout<<"enter the value of n:";
+   cin>>n;
+   if(n>0){
+       cout<<"The number is positive.";
+   }
+   else if(n<0){
+       cout<<"The number is negative.";
+   }
+   else{
+       cout<<"the number is Zero.";
+   }
+
+    return 0;
+}
+//Output:
+enter the value of n:-56
+The number is negative.
+
+=== Code Execution Successful ===
