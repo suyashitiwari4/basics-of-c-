@@ -1,8 +1,9 @@
-Aim: Hello World and Calculator program
-Software Required:
+AIM: Hello World and Calculator program
+
+SOFTWARE REQUIRED:
 Visual Studio
 
-Theory:
+THEORY:
 In C++, input and output are performed in the form of a sequence of bytes or more commonly known as streams.
 
 Input Stream: If the direction of flow of bytes is from the device (for example, Keyboard) to the main memory then this process is called input.
@@ -15,11 +16,11 @@ Standard Output Stream - cout<<: The C++ cout is the instance of the iostream cl
 
 Standard Input Stream - cin>>: The C++ cin statement is the instance of the class iostream and is used to read input from the standard input device which is usually a keyboard. The extraction operator (>>) is used along with the object cin for extracting the data from the input stream and store it in some variable in the program.
 
-Implementation:
+IMPLEMENTATION:
 The basics i.e input and output functions and basic arithmatic operators (more is discussed in the next part) of C++ are seen through the following programs,
 
 Hello World(Printing Hello World)
 Making a simple calculator
 
-Conclusion:
+CONCLUSION:
 The basics of C++ was seen through the programs.
